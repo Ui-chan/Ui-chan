@@ -8,7 +8,7 @@
 
 <p align="center">
   Hi there! 👋 I'm <b>Uichan An</b>.<br/>
-  I'm a 4th-year Computer Engineering student at Inha University, <br/>
+  I'm a 4th-year Computer Engineering student, <br/>
   and I'm deeply interested in <b>Backend Development</b> and <b>Cloud Infrastructure</b>. <br/>
   I love to connect and chat. Feel free to contact me!
 </p>
